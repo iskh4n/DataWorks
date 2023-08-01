@@ -1,2 +1,2 @@
 # DataWorks
-Machine Learning, Deep Learning, Data Mining etc. projects
+Projects: Machine Learning, Deep Learning, Data Mining, NLP etc. 
